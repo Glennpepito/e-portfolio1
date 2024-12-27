@@ -22,7 +22,7 @@ The ePortfolio is built using:
 To view or use this ePortfolio:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Glennpepito/pepito-portfolio.git
+   git clone https://github.com/Glennpepito/e-portfolio1.git
    ```
 2. Navigate to the project directory:
    ```bash
